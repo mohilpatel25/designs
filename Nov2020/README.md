@@ -18,4 +18,10 @@
     <td><img src="png/25.11.2020.png"></td>
     <td><img src="png/26.11.2020.png"></td>
   </tr>
+  <tr>
+    <td><img src="png/28.11.2020.png"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
