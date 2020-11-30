@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><img src="png/28.11.2020.png"></td>
-    <td></td>
+    <td><img src="png/30.11.2020.png"></td>
     <td></td>
     <td></td>
   </tr>
