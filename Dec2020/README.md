@@ -12,4 +12,10 @@
     <td><img src="png/14.12.2020.png"></td>
     <td><img src="png/16.12.2020.png"></td>
   </tr>
+  <tr>
+    <td><img src="png/18.12.2020.png"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
