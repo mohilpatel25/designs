@@ -14,7 +14,7 @@ with open('README.md','w') as f:
   f.close()
 f = open('README.md','a')
 f.write("# Designs\n")
-f.write("This repository contains my Designs made on Illustrator.<br>\n") 
+f.write("This repository contains my Designs made using Illustrator.<br>\n") 
 f.write("Some of them:<br>\n")
 f.write('<table>\n') 
 f.write('<tr><td><img src="'+final_img[0]+'"></td><td><img src="'+final_img[1]+'"></td><td><img src="'+final_img[2]+'"></td></tr>\n')
