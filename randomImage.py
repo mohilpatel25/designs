@@ -3,7 +3,7 @@ import random
 images = []
 for root, dirs, files in os.walk("."):
    for name in files:
-      if(name.endswith('.txt')):
+      if(name.endswith('.png')):
         images.append(os.path.join(root, name))
 final_img = []
 while len(final_img) < 9:
